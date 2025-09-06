@@ -9,3 +9,6 @@ __pycache__/
 
 #OS-specified files
 .DS_Store
+
+System Volume Information/
+$RECYCLE.BIN/
